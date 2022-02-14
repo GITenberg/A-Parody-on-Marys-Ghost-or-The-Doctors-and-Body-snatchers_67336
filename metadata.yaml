@@ -1,0 +1,31 @@
+_repo: A-Parody-on-Marys-Ghost-or-The-Doctors-and-Body-snatchers_67336
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2022-02-06'
+identifiers:
+  gutenberg: '67336'
+language: en
+pgterms:marc904: https://archive.org/details/b30375198
+pgterms:marc905: 20210924100104anon
+pgterms:marc906: '1825'
+pgterms:marc907: GB
+production_note: deaurider, Martin Pettit and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :Christopher Berry (printer),1825.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A Parody on Mary’s Ghost: or The Doctors and Body-snatchers'
+url: http://www.gutenberg.org/ebooks/67336
